@@ -1,4 +1,4 @@
-# AbzalIgissin, Analysis of Hotel booking demand
+# Abzal Igissin, Analysis of Hotel booking demand
 
 In this project I analyze demand of people of different categories to the booking of hotels.
 
