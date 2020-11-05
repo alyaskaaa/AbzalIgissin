@@ -7,3 +7,5 @@ The dataset is taken from the webpage Kaggle: https://www.kaggle.com/jessemostip
 The following data was used for analysis: agent, company, hotels, age, days in waiting list and others.
 
 The main library used for analysis is Pandas.
+
+The figure is not visible for the Research Question 2 since I used plotly
