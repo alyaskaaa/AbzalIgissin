@@ -8,4 +8,4 @@ The following data was used for analysis: agent, company, hotels, age, days in w
 
 The main library used for analysis is Pandas.
 
-The figure is not visible for the Research Question 2 since I used plotly
+The figure is not visible for the Research Question 5 since I used plotly
